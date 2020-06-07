@@ -1,6 +1,5 @@
-# Rick And Morty App
-Web App using the rick and morty API in Vanilla.js
-- Live example -> https://leonidasesteban.github.io/rick-morty-vanilla/
-- Learn how to in Youtube -> https://youtu.be/XZcOUmiLdSo
+# Rick And Morty Applicacion que consume servicio y pinta en pantalla
+Aplicación web que consume servicio y esta utilizando javascript, css y html.
 
-![](https://repository-images.githubusercontent.com/270150208/cd653200-a851-11ea-9d9c-910b66ca0006)
+## Para utilizar esta aplicación es necesario utilizar un servidor y con este no tendremos el problema de CORS
+El servidor que simulo es utilizado desde chrome, y se llama la extensión Web server for Chrome.
